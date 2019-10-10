@@ -12601,23 +12601,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Usuario\\.nuget\\packages\\": {},
+    "C:\\Users\\Vinny\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\GerenciadorDespesas\\GerenciadorDespesas\\GerenciadorDespesas\\GerenciadorDespesas.csproj",
+      "projectUniqueName": "D:\\Dev\\Repositorios\\GerenciadorDespesas\\gerenciadorDespesas\\GerenciadorDespesas\\GerenciadorDespesas\\GerenciadorDespesas.csproj",
       "projectName": "GerenciadorDespesas",
-      "projectPath": "C:\\Users\\Usuario\\Documents\\GerenciadorDespesas\\GerenciadorDespesas\\GerenciadorDespesas\\GerenciadorDespesas.csproj",
-      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Documents\\GerenciadorDespesas\\GerenciadorDespesas\\GerenciadorDespesas\\obj\\",
+      "projectPath": "D:\\Dev\\Repositorios\\GerenciadorDespesas\\gerenciadorDespesas\\GerenciadorDespesas\\GerenciadorDespesas\\GerenciadorDespesas.csproj",
+      "packagesPath": "C:\\Users\\Vinny\\.nuget\\packages\\",
+      "outputPath": "D:\\Dev\\Repositorios\\GerenciadorDespesas\\gerenciadorDespesas\\GerenciadorDespesas\\GerenciadorDespesas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Vinny\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -12653,7 +12653,6 @@
             "version": "[2.1.2, )"
           },
           "Microsoft.NETCore.App": {
-            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
